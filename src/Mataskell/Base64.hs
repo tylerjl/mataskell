@@ -1,4 +1,4 @@
-module Base64
+module Mataskell.Base64
 ( encode64
 , decode64
 ) where
